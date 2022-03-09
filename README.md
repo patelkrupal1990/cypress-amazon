@@ -9,7 +9,7 @@
    
 # Environment Setup:
     ## git clone https://github.com/patelkrupal1990/cypress-amazon or if zip provided download and extract that.
-    ## cd spree-cypress/
+    ## cd cypress-cypress/
     ## npm install
 # Running test cases:
     ## cd cypress-amazon/
