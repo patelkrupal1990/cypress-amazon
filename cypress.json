@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.amazon.in",
+  "chromeWebSecurity": false,
+  "requestTimeout": 15000,
+  "defaultCommandTimeout": 15000,
+  "video" : false
+}
